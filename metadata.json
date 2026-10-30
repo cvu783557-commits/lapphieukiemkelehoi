@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Lập Phiếu Kiểm Kê Lễ Hội Truyền Thống",
+  "description": "Công cụ lập hồ sơ, số hóa và quản lý phiếu kiểm kê di sản văn hóa phi vật thể lễ hội truyền thống theo tiêu chuẩn Thông tư 04/2010/TT-BVHTTDL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
